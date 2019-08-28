@@ -1,5 +1,5 @@
 hub HuangHub
-shortLabel Jhuang Maize Hub
+shortLabel Ji Huang Maize Hub
 longLabel Ji Huang's hub for zea mays B73 v4
 genomesFile https://raw.githubusercontent.com/timedreamer/genomaize_hub/master/genomes.txt
 email jh6577@nyu.edu
