@@ -1,5 +1,20 @@
-track KN1-antibody
+track KN1-ear_antibody
 bigDataUrl https://data.cyverse.org/dav-anon/iplant/home/timedreamer/analyses/ucsc_hub/zmav4/SRR518979_q10.bw
-shortLabel KN1 antibody
-longLabel KN1 antibody track bigwig
+shortLabel KN1 ear antibody
+longLabel KN1 ear antibody track bigwig
 type bigWig
+
+
+track KN1-ear_input
+bigDataUrl https://data.cyverse.org/dav-anon/iplant/home/timedreamer/analyses/chip_coruzzi_bw/SRR518980_q10.bw
+shortLabel KN1 ear input
+longLabel KN1 ear input track bigwig
+type bigWig
+
+
+track h3k36me3_xdeng
+bigDataUrl https://data.cyverse.org/dav-anon/iplant/home/timedreamer/analyses/track_files/h3k36me3.xdeng.bw
+shortLabel h3k36me3 xdeng
+longLabel h3k36me3 Xing-wang Deng
+type bigWig
+
