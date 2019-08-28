@@ -1,0 +1,5 @@
+track KN1-antibody
+bigDataUrl https://data.cyverse.org/dav-anon/iplant/home/timedreamer/analyses/ucsc_hub/zmav4/SRR518979_q10.bw
+shortLabel KN1 antibody
+longLabel KN1 antibody track bigwig
+type bigWig

@@ -1,0 +1,6 @@
+hub HuangHub
+shortLabel Jhuang Maize Hub
+longLabel Ji Huang's hub for zea mays B73 v4
+genomesFile https://de.cyverse.org/dl/d/B25CE582-1B5A-4B85-934C-AA1311DC0B38/genomes.txt
+email jh6577@nyu.edu
+descriptionUrl descriptionUrl

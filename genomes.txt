@@ -1,0 +1,3 @@
+genome zeaMay_b73_v4
+trackDb https://de.cyverse.org/dl/d/054CD0A3-1E81-4A56-81A1-0D5A4A675676/trackDb.txt
+
